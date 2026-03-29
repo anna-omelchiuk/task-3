@@ -44,32 +44,5 @@ namespace prac_2
         {
             return $"\nНазва: {Name}\nРік заснування: {Year}\nОпис: {Description}\nТелефон: {Phone}\nEmail: {Email}";
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // Метод виведення даних
-        //public void PrintData()
-        //{
-        //    Console.WriteLine("\n Інформація про журнал");
-        //    Console.WriteLine($"Назва: {Name}");
-        //    Console.WriteLine($"Рік заснування: {Year}");
-        //    Console.WriteLine($"Опис: {Description}");
-        //    Console.WriteLine($"Телефон: {Phone}");
-        //    Console.WriteLine($"Email: {Email}");
-        //}
     }
 }
